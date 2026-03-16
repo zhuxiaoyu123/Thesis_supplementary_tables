@@ -1,2 +1,2 @@
 # Thesis_supplementary_tables
-Supplementary table of my PhD thesis
+Supplementary tables of my PhD thesis
